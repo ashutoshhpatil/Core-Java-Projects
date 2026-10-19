@@ -1,0 +1,8 @@
+1001, Ashutosh, 1000.0
+1002, Aditi, 5000.0
+1003, Vijayanand , 10000.0
+1004, Meera, 50000.0
+1001,  Ashutosh,  1000.0
+1002,  Aditi,  5000.0
+1003,  Vijayanand,  10000.0
+1004,  Meera,  95250.0
